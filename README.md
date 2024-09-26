@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">A Computer Science major, streaming in Data Science passionate in web development.<br><br>- 📚 I'm currently learning React and NextJs</p>
+<p align="left">A third year Computer Science major, streaming in Data Science passionate in web development.<br><br>- 📚 I'm currently learning React and NextJs</p>
 
 ###
 
