@@ -2,6 +2,9 @@
   <a href="https://www.linkedin.com/in/darren-nathaneil-52b66632a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
+  <a href="darrennathaneil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -14,7 +17,7 @@
 
 ###
 
-<p align="left">A third year Computer Science major, streaming in Data Science passionate in web development.<br><br>- 📚 I'm currently learning React and NextJs</p>
+<p align="left">A Computer Science major, streaming in Data Science passionate in web development.<br><br>- 📚 I'm currently learning React and NextJs</p>
 
 ###
 
